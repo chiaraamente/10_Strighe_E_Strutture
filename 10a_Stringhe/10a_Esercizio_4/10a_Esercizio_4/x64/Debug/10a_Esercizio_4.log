@@ -1,0 +1,4 @@
+﻿  4.c
+C:\Users\chiar\source\repos\10a_Esercizio_4\10a_Esercizio_4\4.c(7,3): warning C4098: 'printchar': la funzione 'void' restituisce un valore
+C:\Users\chiar\source\repos\10a_Esercizio_4\10a_Esercizio_4\4.c(5,10): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  10a_Esercizio_4.vcxproj -> C:\Users\chiar\source\repos\10a_Esercizio_4\x64\Debug\10a_Esercizio_4.exe

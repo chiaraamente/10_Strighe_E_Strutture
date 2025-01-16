@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chiar\\source\\repos\\10_Strighe_E_Strutture\\10a_Stringhe\\10a_Esercizio_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{559573B1-3307-4B08-97E7-F83DC4F383BF}|10a_Esercizio_1\\10a_Esercizio_1.vcxproj|C:\\Users\\chiar\\source\\repos\\10_Strighe_E_Strutture\\10a_Stringhe\\10a_Esercizio_1\\10a_Esercizio_1\\01a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{559573B1-3307-4B08-97E7-F83DC4F383BF}|10a_Esercizio_1\\10a_Esercizio_1.vcxproj|solutionrelative:10a_Esercizio_1\\01a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01a.c",
+              "DocumentMoniker": "C:\\Users\\chiar\\source\\repos\\10_Strighe_E_Strutture\\10a_Stringhe\\10a_Esercizio_1\\10a_Esercizio_1\\01a.c",
+              "RelativeDocumentMoniker": "10a_Esercizio_1\\01a.c",
+              "ToolTip": "C:\\Users\\chiar\\source\\repos\\10_Strighe_E_Strutture\\10a_Stringhe\\10a_Esercizio_1\\10a_Esercizio_1\\01a.c",
+              "RelativeToolTip": "10a_Esercizio_1\\01a.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-13T10:36:46.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
