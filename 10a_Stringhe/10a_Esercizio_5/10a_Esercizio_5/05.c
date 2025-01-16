@@ -22,7 +22,7 @@ RESULT stampaDettagli(float num, int n1, int n2) {
 	if ((strlen(num1) + strlen(num2) + 1) <= (MAX - 1)) {
 		sprintf(stringaFormato, "%%%d.%df", n1, n2);
 		printf("Il formato generato e': %s\n", stringaFormato);
-		printf(stringaFormato, num);	//stringaFormato rappresenta un'allocazione dinamica, ed è come se ci fosse scritto "%%%d.%df"
+		printf(stringaFormato, num);	//stringaFormato rappresenta un'allocazione dinamica, ed ï¿½ come se ci fosse scritto "%%%d.%df"
 		printf("\n\n");
 		result = FUN_OK;
 	}
@@ -37,7 +37,7 @@ void checkResult(RESULT result, char str[]) {
 	case FUN_OK:
 		strcpy(str, ""); break;
 	case ERROR_TOO_MANY_NUMBERS:
-		strcpy(str, "La striga di formato non puo' contenere tutti questi numeri..!"); break;
+		strcpy(str, "La stringa di formato non puo' contenere tutti questi numeri..!"); break;
 	default:
 		strcpy(str, "UNKNOWN_ERROR");
 	}
